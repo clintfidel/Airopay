@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 16 03:41:22 GMT 2019
+#Tue Jul 16 13:59:06 GMT 2019
 5.base=/home/clinton/Airopay/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/clinton/Airopay/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/x86_64/libjsinspector.so
