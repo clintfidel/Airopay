@@ -1,12 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
-INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
-MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
+ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [com.facebook.react:react-native:0.59.8] /home/clinton/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/742ef7f17400d29705af52adfb2b00f6/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d90ffdf9804a9c0062af764bf9a0631f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3a1d717a4ddaa898fea62a0366d46b96/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe31ad5eaabdad078911d96ddf423383/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a81dd0be56cf79b8dbafcad1a9c06cf1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0d6310349aa6b9640ed25e9a36956d5c/AndroidManifest.xml:17:1-22:12
@@ -20,6 +26,7 @@ MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/clinton/.gradle
 MERGED from [com.android.support:customview:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3cb387c0578e7783484af53c795260d3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d3da9d0c709f904a34794f9de0837ea0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2fdd98e71e1f0f7bdc2185172b9bfa54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9c3ddc5937706ea86be0aed51d0ca8d0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a8895c8d6f7289e30910774a02159eaa/AndroidManifest.xml:17:1-22:12
@@ -38,6 +45,7 @@ MERGED from [com.facebook.fresco:drawee:1.10.0] /home/clinton/.gradle/caches/tra
 MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3f1501a5266a2a8b7999c608d776aa69/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/12c70bd8cfefe46d89ffc9e987507567/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28699c2452dcc0ba7871e27ac123f40a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aa119f0fb40ded1c6c2038c9e999cfd0/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -49,18 +57,22 @@ INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:2:
 		INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -68,17 +80,31 @@ ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:5:5-79
 	android:name
 		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:5:22-76
 application
-ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-26:19
-MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-26:19
-MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-26:19
+ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:7:5-29:19
 MERGED from [com.facebook.react:react-native:0.59.8] /home/clinton/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/742ef7f17400d29705af52adfb2b00f6/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.8] /home/clinton/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/742ef7f17400d29705af52adfb2b00f6/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3a1d717a4ddaa898fea62a0366d46b96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3a1d717a4ddaa898fea62a0366d46b96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9c3ddc5937706ea86be0aed51d0ca8d0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9c3ddc5937706ea86be0aed51d0ca8d0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28699c2452dcc0ba7871e27ac123f40a/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28699c2452dcc0ba7871e27ac123f40a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:7:5-11:19
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:22:18-91
 	android:label
@@ -129,14 +155,32 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:25:7-84
 	android:name
 		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:25:17-81
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:26:7-28:66
+	android:value
+		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:28:9-64
+	android:name
+		ADDED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml:27:9-58
 uses-sdk
 INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.59.8] /home/clinton/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/742ef7f17400d29705af52adfb2b00f6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] /home/clinton/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/742ef7f17400d29705af52adfb2b00f6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d90ffdf9804a9c0062af764bf9a0631f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d90ffdf9804a9c0062af764bf9a0631f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3a1d717a4ddaa898fea62a0366d46b96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3a1d717a4ddaa898fea62a0366d46b96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe31ad5eaabdad078911d96ddf423383/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe31ad5eaabdad078911d96ddf423383/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a81dd0be56cf79b8dbafcad1a9c06cf1/AndroidManifest.xml:20:5-44
@@ -163,6 +207,8 @@ MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/clinton/.gradl
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d3da9d0c709f904a34794f9de0837ea0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2fdd98e71e1f0f7bdc2185172b9bfa54/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2fdd98e71e1f0f7bdc2185172b9bfa54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/abe67b3cfca15b7d01003313d2232f2e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9c3ddc5937706ea86be0aed51d0ca8d0/AndroidManifest.xml:20:5-44
@@ -199,10 +245,14 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/clinton/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/12c70bd8cfefe46d89ffc9e987507567/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28699c2452dcc0ba7871e27ac123f40a/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28699c2452dcc0ba7871e27ac123f40a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aa119f0fb40ded1c6c2038c9e999cfd0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/aa119f0fb40ded1c6c2038c9e999cfd0/AndroidManifest.xml:5:5-7:41
 INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/clinton/Airopay/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml
@@ -213,3 +263,47 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/clinton/Airopay/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/clinton/Airopay/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/823ba18f0d7503a45f01346a9c82f1db/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/ec618010f7342a1b7764f3792182b7f2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/clinton/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/f54c24b3110df6f43f60376119a94de9/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/4134a9cf1fb734cf2edd879f441c1404/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c51a9912b5074546e1c1a28a80700fe0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/clinton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e2d47176ea32ef1df8a725cc3f726af1/AndroidManifest.xml:27:13-51

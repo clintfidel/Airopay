@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import FetchLocation from './components/FetchLocation';
+import UsersMap from './components/UsersMap';
 
 
 const handleGetLocation = () =>  {
@@ -15,6 +16,7 @@ export default function App() {
     <View style={styles.container}>
       <FetchLocation 
         locationData = {handleGetLocation} />
+      <UsersMap />
     </View>
   );
 }
@@ -25,5 +27,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffff',
     alignItems: 'center',
     justifyContent: 'center',
-  },
+  }
 });
